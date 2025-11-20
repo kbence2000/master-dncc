@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "master-dncc",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "as-nms1",
+      "database_id": "0924bf26-5b92-4132-aad2-cf6ede0a54ed"
+    }
+  ]
+}
